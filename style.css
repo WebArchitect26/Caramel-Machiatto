@@ -1,0 +1,21 @@
+body{background-color: rgb(234, 226, 214);}
+h1{
+    text-shadow: 8px 5px 6px rgb(46, 33, 26)
+}
+h2{
+    color: rgba(74, 55, 44);
+    text-transform: none;
+}
+h3{
+    color: rgb(107, 94, 83) ;
+    line-height:20px;
+}
+p{
+    text-align: center;
+    color: rgb(62, 47, 39);
+    line-height: 20px;
+}
+button{
+    background-color: rgb(62, 39, 35);
+    color: rgb(253, 253, 249);
+}
